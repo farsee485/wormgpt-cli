@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+wormgpt_config.json
+.env
