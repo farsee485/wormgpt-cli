@@ -1,0 +1,5 @@
+{
+    "api_key": "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",
+    "model": "gpt-4",
+    "language": "auto"
+}
